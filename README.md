@@ -1,6 +1,7 @@
 # Getting Started
 
 This project was created to test react-hook-form.
+course: https://balta.io/cursos/criando-um-app-com-react-typeScript-hooks-context-forms
 
 ## Available Scripts
 
