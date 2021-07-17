@@ -1,7 +1,15 @@
 # Getting Started
 
 Following this [Course](https://balta.io/cursos/criando-um-app-com-react-typeScript-hooks-context-forms) on 
-[balta.io](https://balta.io/), I created this project to test react-hook-form.
+[balta.io](https://balta.io/), I created this project to test [react-hook-form](https://react-hook-form.com/api/useform/formstate).
+
+## Tech Stack
+ - [React](https://facebook.github.io/react/)
+ - [typescript](https://www.typescriptlang.org)
+ - [react-router-dom](https://reactrouter.com/web/guides/quick-start)
+ - [react-hook-form](https://react-hook-form.com/api/useform/formstate).
+ - [yup](https://github.com/jquense/yup)
+ - [hookform-resolvers](https://github.com/react-hook-form/resolvers)
 
 ## Available Scripts
 
